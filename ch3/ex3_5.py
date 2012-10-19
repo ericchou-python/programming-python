@@ -27,6 +27,8 @@ def print_fourRows_fourColumns():
     print_boundary_2()
     print_slash_2(), print_slash_2(), print_slash_2(), print_slash_2()
     print_boundary_2()
+    print_slash_2(), print_slash_2(), print_slash_2(), print_slash_2()
+    print_boundary_2()
 
 if __name__ == "__main__":
     print_square()
